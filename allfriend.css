@@ -1,0 +1,49 @@
+/* CSS Document */
+
+.uiButtonLarge{
+               padding:2px 6px;
+}
+input{
+               font-size:13px;
+}
+a#link{
+	font-family:Arial, Helvetica, sans-serif;
+	color:#3B5998;
+	font-weight:bolder;
+}
+.uiButtonConfirm{
+               background-color:#5B74A8;
+               background-position:0 -48px;
+               border-color:#29447E #29447E #1A356E;
+               font-weight:bold;
+               color:#FFFFFF;
+}
+.friends_area{
+    width:500px;
+	padding:5px;
+    height:50px;
+    border-bottom: #999999 solid 1px;
+    }
+.top_area{
+	background:#627AAD;
+	font-size:14px;
+	color:#FFFFFF;
+	font-weight:bold;
+	padding:6px 6px 6px 12px;
+}
+.name b{
+	font-size:14px;
+	color:#3B5998;
+	cursor:pointer;
+	}
+.name{
+	font-size:14px;
+	color:#666;
+	padding:8px;
+	}
+#search_area{
+	background:#F2F2F2 none repeat scroll 0 0;
+	width:515px;
+	padding:5px;
+	height:30px;
+}

@@ -1,0 +1,108 @@
+/* CSS Document */
+.main{
+width:900px;
+margin:0 auto;
+
+border-top-width: 0px; margin-top: 12px;
+
+}
+.header{
+
+height:25px;
+margin:auto;
+background-color:#627aad;
+border-style:solid;
+border-color:#b3b3b3;
+border-width: 1px;
+
+border-bottom-width: 0px;
+width: 721px;
+border-left-width: 1px; margin-left: 177px;
+}
+.logo{
+margin:0 0 0 0px;
+margin-top: -20px; border-top-width: 0px;
+
+}
+.left{
+width:179px;
+margin:0 auto;
+float:left;
+background-color:#FFFFFF;
+border-style:solid;
+border-color:#b3b3b3;
+border-width: 0px; margin-left: 222px;
+margin-left: -1px;
+}
+.center{
+width:470px;
+margin:0 auto;
+float:inherit;
+background-color:#FFFFFF;
+border-style:solid;
+border-color:#b3b3b3;
+border-width: 0px 0px 1px 1px; width: 466px; margin-left: 178px;
+width: 470px;
+margin-top: -16px;
+border-right-width: 1px;
+margin-top: 0px;
+
+}
+.right{
+width:250px;
+margin:0 auto;
+float:right;
+background-color:#FFFFFF;
+border-style:solid;
+border-color:#b3b3b3;
+border-width: 0px 1px 1px 0px; margin-top: -21px;
+margin-top: -865px; padding-top: 0px;
+}
+.notification{
+margin: 0px 0px 0px 10;
+width: 74px; margin-top: 0px; margin-left: 102px;
+}
+.propic{
+margin:0px 0px 0px 0px;
+margin-top: 19px; margin-left: 40px;
+
+}
+.editpic{
+margin:0px 0px 0px 0px;
+}
+.greenButton{
+	width:auto;
+	margin:10px 0 0 2px;
+	padding:3px 4px 3px 4px;
+	color:white;
+	background-color:#589d39;
+	outline:none;
+	border:1px solid #006600;
+	font-weight:bold;
+	background-image:url(img/buttonphotos.png);
+	background-repeat:no-repeat;
+	background-position:center;
+}
+.comment{
+margin: 0px 0px 0px 0px;
+margin-top: 0px; margin-left: 88px; margin-bottom: 38px;
+margin-left: 40px; width: 387px; padding-top: 25px;
+
+}
+.button{
+margin:0px 0px 0px 0px;
+width: 59px; margin-left: 367px; margin-top: -42px; border-top-width: 0px;
+
+}
+.greenButton1{
+	width:auto;
+	margin:10px 0 0 2px;
+	padding:3px 4px 3px 4px;
+	color:white;
+	background-color:#589d39;
+	outline:none;
+	border:1px solid #006600;
+	font-weight:bold;
+}
+
+

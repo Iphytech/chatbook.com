@@ -1,0 +1,76 @@
+body {
+	font: 11px Verdana, Arial, Helvetica, sans-serif;
+	color:#000000;
+}
+#background {
+background-repeat:no-repeat;
+background-position:center;
+background-image:url(images/bakground.jpg);
+margin:auto;
+width:1000px;
+height:700px;
+}
+.login {
+border:medium none;
+height:9px;
+margin:auto;
+width:250px;
+padding-bottom:10px;
+border-bottom:medium;
+font color: #666666;
+}
+.textfield {
+	font-size: 11px;
+	color: #333333;
+	background: #F7F7F7;
+	border: 1px solid #CCCCCC;
+	padding-left: 1px;
+}
+h1 {
+	color: #99CC00;
+	margin: 0px 0px 5px;
+	padding: 0px 0px 3px;
+	font: bold 18px Verdana, Arial, Helvetica, sans-serif;
+	border-bottom: 1px dashed #E6E8ED;
+}
+a {
+	color: #2D3954;
+	font-size: 11px;
+}
+a:hover {
+	color: #99CC00;
+}
+.err {
+	color: #FF9900;
+}
+th {
+	font-weight: bold;
+	text-align: left;
+}
+#error{
+	background-color:#3399FF;
+	border:1px solid #0000FF;
+	padding:7px 3px;
+	text-align:inherit;
+	text-align:top;
+}
+#pic{
+margin:0px 10px 10px 10px;	
+}
+#r{
+	text-align:left;
+}
+.greenButton{
+	width:auto;
+	margin:10px 0 0 2px;
+	padding:3px 4px 3px 4px;
+	color:white;
+	background-color:#589d39;
+	outline:none;
+	border:1px solid #006600;
+	font-weight:bold;
+	background-image:url(img/buttonphotos.png);
+	background-repeat:no-repeat;
+	background-position:center;
+}
+

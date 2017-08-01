@@ -1,0 +1,131 @@
+body,html { margin: 0; padding: 0;  }
+#heading
+{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:56px;
+	color:#CC0000;				
+}
+ body{
+	text-align:center;
+	font-family:Arial, Sans-Serif;
+	font-size:0.75em;
+}
+#wrap{
+	width:400px; 
+	margin:70px 70px 70px 0px;
+	background:url(bg.jpg) top left no-repeat;
+}
+.show_event{ margin-bottom:10px;}
+#EventBox{
+	display:none;
+}
+a.delete{
+	color:#5B74A8;
+	font-weight:bolder;
+	font-size:15px;
+	float:left;
+	text-decoration:none
+}
+.text{
+	color:#666;
+	width:180px;
+	text-align:left;
+	padding-left:7px;
+}
+.text b{
+	color:#5B74A8;
+}
+#EventInput{
+	border:1px solid #BDC7D8;
+	font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+	font-size:11px;
+	padding:3px;
+	width:212px;
+}
+#Where{
+	border:1px solid #BDC7D8;
+	font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+	font-size:11px;
+	padding:3px;
+
+	width: 210px; left: 907px; margin-left: 0px;
+}
+#WhoInvited{
+	border:1px solid #BDC7D8;
+	font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+	font-size:11px;
+	padding:3px;
+width: 210px; margin-left: 0px;
+}
+h4 {
+	color:#333333;
+	font-size:11px;
+	float:left;
+	width:198px;
+}
+a.cancel{
+	width:40px;
+	display:block;
+	color:#5B74A8;
+	font-size:11px;
+	display:none;
+	float:left;
+	margin-top:16px;
+	text-decoration:none;
+}
+a.cancel:hover{
+	text-decoration:underline
+}
+#datepicker{
+	background:url("calendar.jpg") no-repeat scroll right 50% transparent;
+	width:130px;
+	height:15px;
+	border:1px solid #BDC7D8;
+	color:#3B5998;
+	cursor:pointer;
+	padding:3px;
+	font-size:11px;
+	margin-right:2px;
+	float:left;
+}
+#start_time_min{
+	float:left;
+	margin:1px 0px 0px 0px;
+	padding:1px;
+}
+.button, .button:visited {
+	display: inline-block; 
+	color: #fff; 
+	text-decoration: none;
+	text-shadow: 0 -1px 1px rgba(0,0,0,0.25);
+	border-bottom: 1px solid rgba(0,0,0,0.25);
+	cursor: pointer
+}
+.small.button, .small.button:visited {
+	font-size: 14px;
+}
+.button:hover { background-color: #111; color: #fff; }
+.button:active { top: 1px; }
+.button, .button:visited,
+
+.blue	 { background-color: #E0E0E0;color:#fff; font-size:14px;  cursor:auto; padding:3px;}
+
+.comment.button, .comment.button:visited{ 
+										font-weight:bold;
+										background-color:#5B74A8;
+										font-size: 12px;
+										border-color:#29447E #29447E #1A356E;
+										text-align:center;
+										margin-bottom:3px;
+										margin-top:3px;
+										margin-right:4px;										
+										font-weight:bold;
+										color:#FFFFFF;
+										cursor:pointer;
+										width:85px;
+										}
+#watermark{ padding:6px;}
+.uiHeaderTitle{
+width: 162px;
+}
+#CreateEvent{ margin-left: 0px;}
